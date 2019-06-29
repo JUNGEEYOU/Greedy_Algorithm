@@ -24,7 +24,7 @@
     - 이는 방송국 수가 적으면 상관 없지만 많아지면 너무 오래 걸린다.
 2. 근사 알고리즘 (탐욕 알고리즘) 
 -  아직 방송하지 않은 지역 가장 많은 지역에서 방송할 수 있는 방송국을 고른다. 2. 모든 주에서 방송이 될 때까지 1를 반복한다.
-- [기본 소스](https://github.com/JUNGEEYOU/Dijkstras_algorithm/blob/master/greedy_algorithm.py)
+- [기본 소스](https://github.com/JUNGEEYOU/Greedy_Algorithm/blob/master/greedy_algorithm.py)
 
 ---
 
